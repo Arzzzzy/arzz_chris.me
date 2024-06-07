@@ -39,5 +39,8 @@ A gallery of my projects with descriptions, images, and links to view or access 
 
 ## Contact
 Feel free to reach out to me through the following platforms:
-arzzpaypal@gmail.com
-Feel free to customize further as needed!
+* arzzpaypal@gmail.com
+* https://www.instagram.com/arzz_chris/
+* https://www.linkedin.com/in/arzz-paypal-2a90862b7/
+
+#### Feel free to customize further as needed!
