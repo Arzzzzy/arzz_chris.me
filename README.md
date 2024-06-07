@@ -1,13 +1,10 @@
 # Christian Andrei Arzadon's Portfolio
 Welcome to my personal portfolio website. This site showcases my journey as an aspiring web developer, detailing my projects, skills, educational background, and more.
 
-## Overview
-Hello! I'm Christian Andrei T. Arzadon, a Computer Science student passionate about technology and its potential to solve complex problems. This portfolio serves as a comprehensive view of my professional journey, highlighting my skills, projects, and educational background.
-
 ## Features
-1. Responsive Design: The website is designed to be fully responsive, providing an optimal viewing experience on various devices.
-2. Interactive Elements: Utilizes modern web technologies like animations, particle effects, and tilt effects to create a dynamic user experience.
-3. Project Showcase: A dedicated section to display my projects with descriptions and links to view or access the code.
+* Responsive Design: The website is designed to be fully responsive, providing an optimal viewing experience on various devices.
+* Interactive Elements: Utilizes modern web technologies like animations, particle effects, and tilt effects to create a dynamic user experience.
+* Project Showcase: A dedicated section to display my projects with descriptions and links to view or access the code.
    
 ## Technologies Used
 1. HTML5
