@@ -36,8 +36,8 @@
     }
   },
   {
-    "name": "Philvolcs 2024Visualization",
-    "desc": "This data is about earthquake events in year 2024 ",
+    "name": "Philvolcs 2024 Visualization",
+    "desc": "This dataset is about earthquake events in year 2024 ",
     "image": "colab",
     "links": {
       "view": "https://colab.research.google.com/drive/1Aw1wYJDTwLKlx2PvjCilRusDMdTVBoga?usp=sharing",
