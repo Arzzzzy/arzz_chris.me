@@ -39,10 +39,5 @@ A gallery of my projects with descriptions, images, and links to view or access 
 
 ## Contact
 Feel free to reach out to me through the following platforms:
-
-LinkedIn
-GitHub
-Instagram
-Thank you for visiting my portfolio website!
-
+arzzpaypal@gmail.com
 Feel free to customize further as needed!
