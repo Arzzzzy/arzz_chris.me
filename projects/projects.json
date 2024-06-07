@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Hotel Reservation System",
+    "desc": "This project implements a comprehensive hotel booking system with separate customer and admin login functionalities.",
+    "image": "HotelBooking",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Arzzzzy/Hotel-Reservation-Booking-System-CRUD-"
+    }
+  },
+  {
+    "name": "ClassTrack",
+    "desc": "class attendance system designed to streamline attendance management.",
+    "image": "AttendanceReport",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Arzzzzy/ClassTrack-Attendance-System-with-Reporting"
+    }
+  },
+  {
+    "name": "QuanStats",
+    "desc": "Web-based statistics calculator",
+    "image": "Quanstats",
+    "links": {
+      "view": "https://arzzzzy.github.io/QuantStats/",
+      "code": "https://github.com/Arzzzzy/QuantStats"
+    }
+  },
+  {
+    "name": "Breadth First Search",
+    "desc": "Breadth-First Search (BFS) algorithm to find the shortest path in a graph",
+    "image": "cebu",
+    "links": {
+      "view": "https://arzzzzy.github.io/Cebu-Pacific_ConnectingFlight/",
+      "code": "https://github.com/Arzzzzy/Cebu-Pacific_ConnectingFlight"
+    }
+  },
+  {
+    "name": "Philvolcs 2024Visualization",
+    "desc": "This data is about earthquake events in year 2024 ",
+    "image": "colab",
+    "links": {
+      "view": "https://colab.research.google.com/drive/1Aw1wYJDTwLKlx2PvjCilRusDMdTVBoga?usp=sharing",
+      "code": "https://github.com/Arzzzzy/Philvolcs-2024-Earthquake-Visualization"
+    }
+  }
+]
