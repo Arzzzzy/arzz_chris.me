@@ -1,17 +1,5 @@
 [
     {
-        "name": "Jupyter Notebook",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png"
-    },
-    {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
@@ -22,6 +10,14 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
         "name": "Java",
@@ -44,7 +40,27 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
+        "name": "Google Colab",
+        "icon": "https://img.icons8.com/color/48/000000/google-colab.png"
+    },
+    {
+        "name": "Jupyter Notebook",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png"
+    },
+    {
         "name": "Seaborn",
         "icon": "https://img.icons8.com/color/48/000000/bar-chart.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/color/48/000000/line-chart.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios/50/ffffff/jquery.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
     }
 ]
