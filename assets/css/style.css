@@ -40,6 +40,14 @@ html::-webkit-scrollbar-thumb {
   background: #420177;
 }
 
+#favicon {
+  width: 50px; /* Adjust the width as needed */
+  height: 50px; /* Adjust the height as needed */
+  border-radius: 50%;
+  overflow: hidden; /* Ensure any overflow is hidden */
+  display: inline-block; /* Ensure the image behaves like an inline-block element */
+}
+
 /* pre loader start */
 .loader-container {
   position: fixed;
