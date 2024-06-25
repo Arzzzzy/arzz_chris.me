@@ -335,6 +335,9 @@ header .navbar ul li a:hover {
 .social-icons a.instagram:hover {
   background-color: #ee00da;
 }
+.social-icons a.secret-message:hover {
+   background-color: #ee00da;
+}
 /* social icons end */
 
 /* hero media queries starts*/
