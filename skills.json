@@ -65,18 +65,18 @@
     },
     {
         "name": "ZAP",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/OWASP_ZAP_logo.png/48px-OWASP_ZAP_logo.png"
+        "icon": "https://img.icons8.com/color/48/000000/owasp.png"
     },
     {
         "name": "Zenmap",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nmap-logo.svg/48px-Nmap-logo.svg.png"
+        "icon": "https://img.icons8.com/color/48/000000/nmap.png"
     },
     {
         "name": "VirtualBox",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.svg/48px-Virtualbox_logo.svg.png"
+        "icon": "https://img.icons8.com/color/48/000000/virtualbox.png"
     },
     {
         "name": "Burp Suite",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BurpSuite_Logo.png/48px-BurpSuite_Logo.png"
+        "icon": "https://img.icons8.com/color/48/000000/burp-suite.png"
     }
 ]
