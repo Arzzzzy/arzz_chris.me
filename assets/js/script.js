@@ -58,7 +58,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Html, Css, Javascript","Bootstrap, Tailwind","Jupyter Notebook, Python", "PHP, Mysql Database"],
+    strings: ["Html, Css, Javascript, Python","React.js, Node.js","Bootstrap, Tailwind CSS", "PHP, Mysql Database"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
