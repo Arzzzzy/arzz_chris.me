@@ -12,6 +12,10 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
         "name": "TailwindCSS",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
     },
@@ -62,10 +66,6 @@
     {
         "name": "Postman",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
-    },
-    {
-        "name": "ZAP",
-        "icon": "https://img.icons8.com/color/48/000000/owasp.png"
     },
     {
         "name": "Zenmap",
