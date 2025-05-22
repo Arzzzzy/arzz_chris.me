@@ -1,5 +1,23 @@
 [
   {
+    "name": "Face Recognition Attendance System",
+    "desc": "A robust system designed to authenticate individuals and record attendance using facial recognition technology powered by deep learning.",
+    "image": "FaceRecognition",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Arzzzzy/DOS_SoftwareEngineering"
+    }
+  },
+  {
+    "name": "CyberCipher",
+    "desc": "web-based encryption and decryption tool that provides a user-friendly interface for various cryptographic methods. This project aims to offer a platform for exploring and utilizing different encryption techniques for both text and files.",
+    "image": "CyberCipher",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Arzzzzy/CyberCipher"
+    }
+  },
+  {
     "name": "Hotel Reservation System",
     "desc": "This project implements a comprehensive hotel booking system with separate customer and admin login functionalities.",
     "image": "HotelBooking",
