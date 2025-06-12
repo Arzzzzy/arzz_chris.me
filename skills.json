@@ -28,6 +28,10 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios/50/ffffff/jquery.png"
+    },
+    {
         "name": "PHP",
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
     },
@@ -48,24 +52,20 @@
         "icon": "https://img.icons8.com/color/48/000000/google-colab.png"
     },
     {
-        "name": "Jupyter Notebook",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png"
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/ios-filled/50/FA5252/laravel.png"
     },
     {
-        "name": "Seaborn",
-        "icon": "https://img.icons8.com/color/48/000000/bar-chart.png"
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
     },
     {
-        "name": "Matplotlib",
-        "icon": "https://img.icons8.com/color/48/000000/line-chart.png"
+        "name": "Debian",
+        "icon": "https://img.icons8.com/color/48/000000/debian.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios/50/ffffff/jquery.png"
-    },
-    {
-        "name": "Postman",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
+        "name": "Kali",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kali-linux-a-debian-derived-linux-distribution-designed-for-digital-forensics-logo-color-tal-revivo.png"
     },
     {
         "name": "Zenmap",
@@ -74,9 +74,5 @@
     {
         "name": "VirtualBox",
         "icon": "https://img.icons8.com/color/48/000000/virtualbox.png"
-    },
-    {
-        "name": "Burp Suite",
-        "icon": "https://img.icons8.com/color/48/000000/burp-suite.png"
     }
 ]
