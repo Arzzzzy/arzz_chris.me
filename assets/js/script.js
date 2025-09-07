@@ -133,7 +133,7 @@ function showProjects(projects) {
 
 }
 
-fetchData(""skills).then(data => {
+fetchData("skills").then(data => {
     showSkills(data);
 });
 
