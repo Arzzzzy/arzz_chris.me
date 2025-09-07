@@ -137,7 +137,7 @@ fetchData().then(data => {
     showSkills(data);
 });
 
-fetchData("projects").then(data => {
+fetchData().then(data => {
     showProjects(data);
 });
 
